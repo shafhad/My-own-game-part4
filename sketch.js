@@ -17,9 +17,9 @@
      // during=loadImage("During game background.png");
       oneinf_img=loadImage("information_page.png");
       question1_img=loadImage("Q1.PNG");
-      c1_img=loadImage("c1.png");
+      c1_img=loadImage("c1.PNG");
       //C1_img=loadImage("information of first question.PNG");
-      wrong_img=loadImage("Wrong.png");
+      wrong_img=loadImage("Wrong.PNG");
       Ques2_image=loadImage("question 2.PNG");
       ques2wr_img=loadImage("Wrong2 inf.PNG");
       ques2c_img=loadImage("op@ques2 correct.PNG");
